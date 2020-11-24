@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ResultsDBModelStoreContainer" CdmEntityContainer="ResultsDBEntities">
+    <EntitySetMapping Name="tblResults">
+      <EntityTypeMapping TypeName="ResultsDBModel.tblResult">
+        <MappingFragment StoreEntitySet="tblResults">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ExamID" ColumnName="ExamID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="ItemOne" ColumnName="ItemOne" />
+          <ScalarProperty Name="ItemTwo" ColumnName="ItemTwo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ResultsDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblResults">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="ExamID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="50" Nullable="false" />
+    <Property Name="Score" Type="int" Nullable="false" />
+    <Property Name="ItemOne" Type="int" Nullable="false" />
+    <Property Name="ItemTwo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ResultsDBModelStoreContainer">
+    <EntitySet Name="tblResults" EntityType="Self.tblResults" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

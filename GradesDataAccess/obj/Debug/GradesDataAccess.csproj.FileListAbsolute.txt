@@ -1,0 +1,12 @@
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\bin\Debug\GradesDataAccess.dll.config
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\bin\Debug\GradesDataAccess.dll
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\bin\Debug\GradesDataAccess.pdb
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\obj\Debug\GradesDataAccess.csprojAssemblyReference.cache
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\obj\Debug\GradesDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\obj\Debug\GradesDataAccess.csproj.CopyComplete
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\obj\Debug\GradesDataAccess.dll
+C:\Users\abdulmageed\source\repos\MyGradesService\GradesDataAccess\obj\Debug\GradesDataAccess.pdb

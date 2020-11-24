@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGradesService", "MyGradesService\MyGradesService.csproj", "{E1D1E893-51AC-4104-9C28-87FB33477480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradesDataAccess", "GradesDataAccess\GradesDataAccess.csproj", "{C0DE7288-3DD8-4E66-B4FF-74D7587AD962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D1E893-51AC-4104-9C28-87FB33477480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D1E893-51AC-4104-9C28-87FB33477480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D1E893-51AC-4104-9C28-87FB33477480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D1E893-51AC-4104-9C28-87FB33477480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DE7288-3DD8-4E66-B4FF-74D7587AD962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DE7288-3DD8-4E66-B4FF-74D7587AD962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DE7288-3DD8-4E66-B4FF-74D7587AD962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DE7288-3DD8-4E66-B4FF-74D7587AD962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F4E8F5-45EE-4539-A579-BBC0F6986337}
+	EndGlobalSection
+EndGlobal
